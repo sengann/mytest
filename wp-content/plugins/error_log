@@ -1,0 +1,2 @@
+[10-Jan-2017 12:16:57 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/sengsokann/public_html/wp-content/plugins/hello.php on line 60
+[18-Feb-2017 11:10:35 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/sengsokann/public_html/wp-content/plugins/hello.php on line 60
